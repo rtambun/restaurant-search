@@ -1,4 +1,4 @@
-package com.rtambun.retaurantsearch;
+package com.rtambun.restaurantsearch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

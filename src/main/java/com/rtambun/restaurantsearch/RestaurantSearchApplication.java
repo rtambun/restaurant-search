@@ -1,4 +1,4 @@
-package com.rtambun.retaurantsearch;
+package com.rtambun.restaurantsearch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

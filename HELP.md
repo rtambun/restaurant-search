@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.rtambun.retaurant-search' is invalid and this project uses 'com.rtambun.retaurantsearch' instead.
+* The original package name 'com.rtambun.retaurant-search' is invalid and this project uses 'com.rtambun.restaurantsearch' instead.
 
 # Getting Started
 
